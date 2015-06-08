@@ -1,0 +1,10 @@
+{
+  "name": "payeezy_js",
+  "version": "1.0.0",
+  "description": "Sample code provide Payeezy Javascript Integration",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-uglify": "^1.2.0"
+  }
+}
